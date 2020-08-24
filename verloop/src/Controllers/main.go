@@ -1,6 +1,0 @@
-package Controllers
-
-
-func main() {
-
-}
